@@ -1,8 +1,9 @@
-/runs
+MNIST/runs
 
-/finish
+MNIST/finish
 
-/dataset
+MNIST/dataset
 
-/checkpoints/*
+MNIST/checkpoints/*
 
+MNIST/__pycache__
