@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/macbook/Documents/Docs_gwyndolin/GitHub/dl/.venv/bin/python",
+    "python.defaultInterpreterPath": "/Users/macbook/Documents/Docs_gwyndolin/GitHub/dl/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "debugpy.debugJustMyCode": false
+}
